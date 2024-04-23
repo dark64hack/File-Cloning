@@ -22,13 +22,13 @@ U7P4L IN
  pip install mechanize
  cd $HOME 
  rm -rf FILE-CLONE
- git clone --depth=1 https://github.com/U7P4L-IN/FILE-CLONE.git
+ git clone https://github.com/dark64hack/File-Cloning.git
 
- cd FILE-CLONE
+ cd File-Cloning
 
  ls
 
- python FILE.py
+ python Dark-hack.py
 ```
 
 
