@@ -12,15 +12,10 @@ U7P4L IN
   
 #### INSTALL TOOL ON TERMUX
 ```python
- pkg update
- pkg upgrade
- pkg install python
- pkg install git
- pip install requests
- pip install bs4
- pip install futures
- pip install mechanize
- cd $HOME 
+ pkg update -y
+ pkg upgrade -y
+ pkg install python -y
+ pkg install git -y
  rm -rf FILE-CLONE
  git clone https://github.com/dark64hack/File-Cloning.git
 
