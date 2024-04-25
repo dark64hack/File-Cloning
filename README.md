@@ -1,11 +1,5 @@
 
 
-AUTHOR:
-<p align="center">
-U7P4L IN 
-
-</br>
-<p align="center">
       File Cloning Commnad
 
 </p>
